@@ -27,5 +27,5 @@ You can find the rest about me in mine CV in pdf.
 ## Contacts
 Feel free to reach out to me:
 
-- [Email Me](veletic.emma@outlook.com)
-- [Connect on LinkedIn](https://www.linkedin.com/in/emma-veletic-75a358211/)
+- [Email: veletic.emma@outlook.com](mailto:veletic.emma@outlook.com)
+- [LinkedIn: @emmaveletic](https://www.linkedin.com/in/emma-veletic-75a358211/)
