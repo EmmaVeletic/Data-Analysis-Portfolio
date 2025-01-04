@@ -1,6 +1,4 @@
-# Data-Analysis-Portfolio
-
-<h2>Emma Veletić - Data Analyst Portfolio</h2>
+#Emma Veletić Data-Analysis-Portfolio
 
 <h3>About</h3>
 
@@ -23,5 +21,5 @@ You can find the rest about me in mine CV in pdf.
 <h3>Certificates</h3>
 
 <h3>Contacts</h3>
-*LinkedIn [a relative link](https://www.linkedin.com/in/emma-veletic-75a358211/)
-*Email [a relative link](veletic.emma@outlook.com)
+*LinkedIn: <a href="https://www.linkedin.com/in/emma-veletic-75a358211/" title="LinkedIn">@emmaveletic</a>
+*Email: <a href="veletic.emma@outlook.com" title="Email">veletic.emma@outlook.com</a>
