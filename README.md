@@ -1,6 +1,6 @@
-<h1>Emma Veletić - Data Analysis Portfolio</h1>
+# Emma Veletić - Data Analysis Portfolio
 
-##About
+## About
 
 Hi, I'm Emma! With a background in Information Technology and a passion for data-driven decision-making, I am currently on a journey to deepen my expertise in Data Analytics and Data Science. I have developed a strong foundation in IT principles and problem-solving, which complements my interest in uncovering meaningful insights through data. I am eager to bring my technical knowledge and analytical skills to the field as an entry-level data analyst or data scientist.
 
@@ -12,18 +12,20 @@ This repository serves as a platform to showcase my skills, share projects, and 
 
 You can find the rest about me in mine CV in pdf.
 
-##Table of Contents
+## Table of Contents
 
-##Portfolio Projects
+## Portfolio Projects
 
-##Education
+## Education
 - University of Split: Bachelor of Information Technology, Sep 2019 - Sep 2023
 
-##Certificates
+## Certificates
 - Excel Fundamentals (Dec 2024) (DataCamp)
 - Data Analyst in Python (Jan 2025) (DataCamp)
 
 
-##Contacts
-- LinkedIn: <a href="https://www.linkedin.com/in/emma-veletic-75a358211/" title="LinkedIn">@emmaveletic</a>
-- Email: <a href="veletic.emma@outlook.com" title="Email">veletic.emma@outlook.com</a>
+## Contacts
+Feel free to reach out to me:
+
+- [Email Me](veletic.emma@outlook.com)
+- [Connect on LinkedIn](https://www.linkedin.com/in/emma-veletic-75a358211/)
