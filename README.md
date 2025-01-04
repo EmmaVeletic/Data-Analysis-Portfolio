@@ -20,7 +20,7 @@ You can find the rest about me in mine CV in [pdf](https://github.com/EmmaVeleti
 - University of Split: Bachelor of Information Technology, Sep 2019 - Sep 2023
 
 ## Certificates
-- [Excel Fundamentals (Dec 2024) (DataCamp)](https://github.com/EmmaVeletic/Data-Analysis-Portfolio/blob/main/Emma%20Veleti%C4%87%20CV%20-%20EPAM.pdf)
+- [Excel Fundamentals (Dec 2024) (DataCamp)](https://github.com/EmmaVeletic/Data-Analysis-Portfolio/blob/main/Excel_Certificate.pdf)
 - [Data Analyst in Python (Jan 2025) (DataCamp)]()
 
 
