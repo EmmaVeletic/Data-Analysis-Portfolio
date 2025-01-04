@@ -10,7 +10,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 
 This repository serves as a platform to showcase my skills, share projects, and document my progress in Data Analytics / Data Science related topics.
 
-You can find the rest about me in mine CV in pdf.
+You can find the rest about me in mine CV in [pdf](https://github.com/EmmaVeletic/Data-Analysis-Portfolio/blob/main/Emma%20Veleti%C4%87%20CV%20-%20EPAM.pdf)
 
 ## Table of Contents
 
