@@ -14,7 +14,20 @@ You can find the rest about me in mine CV in [pdf](https://github.com/EmmaVeleti
 
 ## Table of Contents
 
+- [About](##about)
+- [Portfolio Projects](##portfolioprojects)
+  - SQL
+  - Python
+  - Excel
+- [Education](##educagion)
+- [Certificates](##certificates)
+- [Contacts](##contacts)
+
+
+
 ## Portfolio Projects
+
+In this section, I will outline my data analytics projects, summarizing the tech stack applied to solve the problems.
 
 ## Education
 - University of Split: Bachelor of Information Technology, Sep 2019 - Sep 2023
