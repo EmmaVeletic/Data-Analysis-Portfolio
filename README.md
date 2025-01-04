@@ -20,10 +20,10 @@ You can find the rest about me in mine CV in pdf.
 * University of Split: Bachelor of Information Technology, Sep 2019 - Sep 2023
 
 <h3>Certificates</h3>
-* Excel Fundamentals (Dec 2024) (DataCamp)
+- Excel Fundamentals (Dec 2024) (DataCamp)
 * Data Analyst in Python (Jan 2025) (DataCamp)
 
 
 <h3>Contacts</h3>
-* LinkedIn: <a href="https://www.linkedin.com/in/emma-veletic-75a358211/" title="LinkedIn">@emmaveletic</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/emma-veletic-75a358211/" title="LinkedIn">@emmaveletic</a>
 * Email: <a href="veletic.emma@outlook.com" title="Email">veletic.emma@outlook.com</a>
