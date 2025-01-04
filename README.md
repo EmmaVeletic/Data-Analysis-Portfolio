@@ -35,6 +35,20 @@ You can find the rest about me in my CV in [pdf](https://github.com/EmmaVeletic/
 
 In this section, I will outline my data analytics projects, summarizing the tech stack applied to solve the problems.
 
+Some project
+
+Code: Analyzing the Factors Contributing to the Success of a Movie.ipynb
+
+Goal: To determine what factors contribute the most to a movie's success.
+
+Description: The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+
+Skills: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+
+Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+
+Results: Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+
 ## Education
 - University of Split: Bachelor of Information Technology, Sep 2019 - Sep 2023
 
