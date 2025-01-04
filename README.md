@@ -15,14 +15,14 @@ You can find the rest about me in my CV in [pdf](https://github.com/EmmaVeletic/
 ## Table of Contents
 
 - [About](#about)
-- [Portfolio Projects](#portfolioprojects)
-  - SQL
+- [Portfolio Projects](#projects)
+  - # SQL
     -
     -
-  - Python
+  - # Python
     -
     -
-  - Excel
+  - # Excel
     -
     -
 - [Education](#education)
@@ -31,7 +31,7 @@ You can find the rest about me in my CV in [pdf](https://github.com/EmmaVeletic/
 
 
 
-## Portfolio Projects
+## Projects
 
 In this section, I will outline my data analytics projects, summarizing the tech stack applied to solve the problems.
 
