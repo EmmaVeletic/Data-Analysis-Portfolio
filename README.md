@@ -1,4 +1,4 @@
-#Emma Veletić Data-Analysis-Portfolio
+#Data-Analysis-Portfolio
 
 <h3>About</h3>
 
