@@ -14,14 +14,20 @@ You can find the rest about me in my CV in [pdf](https://github.com/EmmaVeletic/
 
 ## Table of Contents
 
-- [About](##about)
-- [Portfolio Projects](##portfolioprojects)
+- [About](#about)
+- [Portfolio Projects](#portfolioprojects)
   - SQL
+    -
+    -
   - Python
+    -
+    -
   - Excel
-- [Education](##educagion)
-- [Certificates](##certificates)
-- [Contacts](##contacts)
+    -
+    -
+- [Education](#education)
+- [Certificates](#certificates)
+- [Contacts](#contacts)
 
 
 
