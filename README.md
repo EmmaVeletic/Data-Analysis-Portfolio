@@ -46,10 +46,10 @@ Dataset Used - https://www.kaggle.com/datasets/amirmahdiabbootalebi/salary-by-jo
 Description: This Excel project involves creating a comprehensive dashboard for salaries in IT industry, utilizing data cleaning, pivot tables, and visualizations. The goal is to provide a user-friendly dashboard where users can interact with the data, exploring salary insights based on various factors.
 
 Key Steps in the Project:
-1. Data Cleaning: Identify and remove duplicates, standardize categorical data (e.g., marital status, gender).
+1. Data Cleaning: Identify and remove duplicates, standardize categorical data (e.g.,education level, years of experience).
 2. Create Working Sheet: Copy raw data to a working sheet for manipulation, keeping the original data intact.
 3. Pivot Tables: Utilize pivot tables to summarize and analyze data for visualization.
-4. Visualizations: Build visualizations using recommended charts to represent key insights, such as average income, commute distance, and age brackets.
+4. Visualizations: Build visualizations using recommended charts to represent key insights, such as average income, representation of individual job titles, and age brackets.
 5. Dashboard Creation: Copy visualizations onto a dashboard sheet for a consolidated view.
 6. Chart Customization: Adjust chart titles, axis labels, and formatting for better clarity.
 
@@ -59,6 +59,8 @@ Skills: data cleaning, data analysis, data visualization.
 Technology: Excel.
 
 Results: 
+Understand the average salaray of individuals based on race, gender and seniority. Explore salaries across different age brackets and years of experience.
+
 
 ## Education
 - University of Split: Bachelor of Information Technology, Sep 2019 - Sep 2023
