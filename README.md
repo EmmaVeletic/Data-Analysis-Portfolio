@@ -23,7 +23,7 @@ You can find the rest about me in my CV in [pdf](https://github.com/EmmaVeletic/
     -
     -
   - ### Excel
-    - https://1drv.ms/x/c/825f331c95e8f658/Eat5u8uj39pJhJqN9ebQmLkBFDknDewC2vxz4lVc3A3Ovg?e=tFB42U
+    - Analyzing salary in IT industry
     -
 - [Education](#education)
 - [Certificates](#certificates)
@@ -35,19 +35,28 @@ You can find the rest about me in my CV in [pdf](https://github.com/EmmaVeletic/
 
 In this section, I will outline my data analytics projects, summarizing the tech stack applied to solve the problems.
 
-### Some project
+### Analyzing salary in IT industry
 
-Code: Analyzing the Factors Contributing to the Success of a Movie.ipynb
+Spreadsheet: https://1drv.ms/x/c/825f331c95e8f658/Eat5u8uj39pJhJqN9ebQmLkBFDknDewC2vxz4lVc3A3Ovg?e=tFB42U
 
-Goal: To determine what factors contribute the most to a movie's success.
+Dataset Used - https://www.kaggle.com/datasets/amirmahdiabbootalebi/salary-by-job-title-and-country
 
-Description: The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+Description: This Excel project involves creating a comprehensive dashboard for salaries in IT industry, utilizing data cleaning, pivot tables, and visualizations. The goal is to provide a user-friendly dashboard where users can interact with the data, exploring salary insights based on various factors.
 
-Skills: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+Key Steps in the Project:
+1. Data Cleaning: Identify and remove duplicates, standardize categorical data (e.g., marital status, gender).
+2. Create Working Sheet: Copy raw data to a working sheet for manipulation, keeping the original data intact.
+3. Pivot Tables: Utilize pivot tables to summarize and analyze data for visualization.
+4. Visualizations: Build visualizations using recommended charts to represent key insights, such as average income, commute distance, and age brackets.
+5. Dashboard Creation: Copy visualizations onto a dashboard sheet for a consolidated view.
+6. Chart Customization: Adjust chart titles, axis labels, and formatting for better clarity.
 
-Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-Results: Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+Skills: data cleaning, data analysis, data visualization
+
+Technology: Excel
+
+Results: 
 
 ## Education
 - University of Split: Bachelor of Information Technology, Sep 2019 - Sep 2023
