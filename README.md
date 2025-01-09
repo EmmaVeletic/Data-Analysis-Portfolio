@@ -23,7 +23,7 @@ You can find the rest about me in my CV in [pdf](https://github.com/EmmaVeletic/
     -
     -
   - ### Excel
-    - Analyzing salary in IT industry
+    - [Analyzing salary in IT industry](#Analyzing salary in IT industry)
     -
 - [Education](#education)
 - [Certificates](#certificates)
@@ -41,6 +41,8 @@ Spreadsheet: https://1drv.ms/x/c/825f331c95e8f658/Eat5u8uj39pJhJqN9ebQmLkBFDknDe
 
 Dataset Used - https://www.kaggle.com/datasets/amirmahdiabbootalebi/salary-by-job-title-and-country
 
+- The project utilizes Salary by Job Title and Country.
+
 Description: This Excel project involves creating a comprehensive dashboard for salaries in IT industry, utilizing data cleaning, pivot tables, and visualizations. The goal is to provide a user-friendly dashboard where users can interact with the data, exploring salary insights based on various factors.
 
 Key Steps in the Project:
@@ -52,9 +54,9 @@ Key Steps in the Project:
 6. Chart Customization: Adjust chart titles, axis labels, and formatting for better clarity.
 
 
-Skills: data cleaning, data analysis, data visualization
+Skills: data cleaning, data analysis, data visualization.
 
-Technology: Excel
+Technology: Excel.
 
 Results: 
 
