@@ -23,7 +23,7 @@ You can find the rest about me in my CV in [pdf](https://github.com/EmmaVeletic/
     -
     -
   - ### Excel
-    - [Analyzing salary in IT industry](#analyzingsalaryinITindustry)
+    - [Analyzing salary in IT industry](###analyzingsalaryinITindustry)
     -
 - [Education](#education)
 - [Certificates](#certificates)
