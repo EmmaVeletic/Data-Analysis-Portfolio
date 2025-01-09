@@ -23,7 +23,7 @@ You can find the rest about me in my CV in [pdf](https://github.com/EmmaVeletic/
     -
     -
   - ### Excel
-    - [Analyzing salary in IT industry](#analyzingsalaryinITindustry)
+    - [Analyzing salary in IT industry](#analyzing-salary-in-IT-industry)
     -
 - [Education](#education)
 - [Certificates](#certificates)
@@ -59,7 +59,7 @@ Skills: data cleaning, data analysis, data visualization.
 Technology: Excel.
 
 Results: 
-Understand the average salaray of individuals based on race, gender and seniority. Explore salaries across different age brackets and years of experience.
+Presentation of the rather expected results that the average salary increases with the level of education, years of experience and depending on gender. There are not many deviations for the race factor (perhaps the Chinese and Hispanics are in a less desirable position). It was noted that job titles like Data Scientist, Software Engineer Manager and Project Engineer have higher average salaries even though they have fewer people in that job title.
 
 
 ## Education
