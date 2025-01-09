@@ -23,7 +23,7 @@ You can find the rest about me in my CV in [pdf](https://github.com/EmmaVeletic/
     -
     -
   - ### Excel
-    - 
+    - https://1drv.ms/x/c/825f331c95e8f658/Eat5u8uj39pJhJqN9ebQmLkBFDknDewC2vxz4lVc3A3Ovg?e=tFB42U
     -
 - [Education](#education)
 - [Certificates](#certificates)
