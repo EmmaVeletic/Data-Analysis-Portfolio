@@ -67,6 +67,7 @@ Presentation of the rather expected results that the average salary increases wi
 
 ## Certificates
 - [Excel Fundamentals (Dec 2024) (DataCamp)](https://github.com/EmmaVeletic/Data-Analysis-Portfolio/blob/main/Excel_Certificate.pdf)
+- [Associate Data Analyst in SQL (Feb 2025) (DataCamp)]()
 - [Data Analyst in Python (Jan 2025) (DataCamp)]()
 
 
