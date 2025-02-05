@@ -35,6 +35,20 @@ You can find the rest about me in my CV in [pdf](https://github.com/EmmaVeletic/
 
 In this section, I will outline my data analytics projects, summarizing the tech stack applied to solve the problems.
 
+###Coffe Shop Exploration
+
+Code: [Coffe Shop Project](https://github.com/EmmaVeletic/Data-Analysis-Portfolio/commit/c5b7ea22424e0158ee8fde4e6148a1041dcfaa0d)
+
+Dataset Used: https://www.kaggle.com/datasets/viramatv/coffee-shop-data
+
+- Coffee Shop Sales/Inventory/Staff
+
+Description: The dataset contains records of managing coffee shop like sales, inventory, staff, shifts etc. This project includes the following steps: data loading, data preprocessing (cleaning, tranformation and reduction) and EDA (exploratory data analysis).
+
+Skills: Joins, Aggregate Functions, Converting Data Types, Windows Functions, Extract date, Case Expression, Creating Views
+
+Technology: PostgreSQL
+
 ### Analyzing salary in IT industry
 
 Spreadsheet: https://1drv.ms/x/c/825f331c95e8f658/Eat5u8uj39pJhJqN9ebQmLkBFDknDewC2vxz4lVc3A3Ovg?e=tFB42U
