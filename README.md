@@ -37,7 +37,7 @@ In this section, I will outline my data analytics projects, summarizing the tech
 
 ###Coffe Shop Exploration
 
-Code: [Coffe Shop Project](https://github.com/EmmaVeletic/Data-Analysis-Portfolio/commit/c5b7ea22424e0158ee8fde4e6148a1041dcfaa0d)
+Code: [Coffe Shop Project](https://github.com/EmmaVeletic/Data-Analysis-Portfolio/blob/master/Coffe_Shop.sql)
 
 Dataset Used: https://www.kaggle.com/datasets/viramatv/coffee-shop-data
 
