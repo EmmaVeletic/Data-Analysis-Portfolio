@@ -35,7 +35,7 @@ You can find the rest about me in my CV in [pdf](https://github.com/EmmaVeletic/
 
 In this section, I will outline my data analytics projects, summarizing the tech stack applied to solve the problems.
 
-###Coffe Shop Exploration
+### Coffe Shop Exploration
 
 Code: [Coffe Shop Project](https://github.com/EmmaVeletic/Data-Analysis-Portfolio/blob/main/Coffe%20shop.sql)
 
