@@ -17,7 +17,7 @@ You can find the rest about me in my CV in [pdf](https://github.com/EmmaVeletic/
 - [About](#about)
 - [Projects](#projects)
   - ### SQL
-    -
+    - [Coffe Shop Exploration](coffe-shop-exploration)
     -
   - ### Python
     -
