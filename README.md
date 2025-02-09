@@ -18,7 +18,7 @@ You can find the rest about me in my CV in [pdf](https://github.com/EmmaVeletic/
 - [Projects](#projects)
   - ### SQL
     - [Coffe Shop Exploration](#coffe-shop-exploration)
-    -
+    - [Car Price Analyze] (#car_price-analyze)
   - ### Python
     -
     -
@@ -48,6 +48,21 @@ Description: The dataset contains records of managing coffee shop like sales, in
 Skills: Joins, Aggregate Functions, Converting Data Types, Windows Functions, Extract date, Case Expression, Creating Views
 
 Technology: PostgreSQL
+
+### Car Price Analyze
+
+Code: [Car Price Analyze](https://github.com/EmmaVeletic/Data-Analysis-Portfolio/blob/main/Car_price.sql)
+
+Dataset Used: https://www.kaggle.com/datasets/asinow/car-price-dataset
+
+- Car Price Dataset
+
+Description: This dataset contains informations over 10,000 cars. This project involves analyzing a dataset of car prices to understand market trends and identify key factors influencing price - mostly exploratory data analysis. The overall goal is to gain insights into car pricing dynamics and market segmentation using SQL.
+
+Skills used: Windows Functions, Creating Views, Using CTE tables, Aggregate Functions, Converting Data Types, Case Expression
+
+Technology: PostgreSQL
+
 
 ### Analyzing salary in IT industry
 
