@@ -26,7 +26,7 @@ You can find the rest about me in my CV in [pdf](https://github.com/EmmaVeletic/
     - [Analyzing salary in IT industry](#analyzing-salary-in-IT-industry)
     -
 - [Education](#education)
-- [Certificates](#certificates)
+- [Statements of accomplishment](#statements-of-accomplishment)
 - [Contacts](#contacts)
 
 
@@ -94,11 +94,11 @@ Presentation of the rather expected results that the average salary increases wi
 ## Education
 - University of Split: Bachelor of Information Technology, Sep 2019 - Sep 2023
 
-## Certificates
+## Statements of accomplishment
 - [Excel Fundamentals (Dec 2024) (DataCamp)](https://github.com/EmmaVeletic/Data-Analysis-Portfolio/blob/main/Excel_Certificate.pdf)
 - [Associate Data Analyst in SQL (Feb 2025) (DataCamp)](https://github.com/EmmaVeletic/Data-Analysis-Portfolio/blob/main/SQL_Certificate.pdf)
 - [SQL Fundamentals (Feb 2025) (DataCamp)](https://github.com/EmmaVeletic/Data-Analysis-Portfolio/blob/main/SQL%20fundamentals_Certificate.pdf)
-- [Data Analyst in Python (Feb 2025) (DataCamp)]()
+- [Data Analyst in Python (Feb 2025) (DataCamp)](https://github.com/EmmaVeletic/Data-Analysis-Portfolio/blob/main/Python_certificate.pdf)
 
 
 ## Contacts
