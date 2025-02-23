@@ -19,9 +19,7 @@ You can find the rest about me in my CV in [pdf](https://github.com/EmmaVeletic/
   - ### SQL
     - [Coffe Shop Exploration](#coffe-shop-exploration)
     - [Car Price Analyze](#car_price-analyze)
-  - ### Python
-    -
-    -
+ 
   - ### Excel
     - [Analyzing salary in IT industry](#analyzing-salary-in-IT-industry)
     -
