@@ -23,6 +23,7 @@ You can find the rest about me in my [CV](https://github.com/EmmaVeletic/Data-An
   - ### Excel
     - [Analyzing salary in IT industry](#analyzing-salary-in-IT-industry)
     -
+  -### Tableau --> [profile](https://public.tableau.com/app/profile/emma.veleti./vizzes)
 - [Education](#education)
 - [Statements of accomplishment](#statements-of-accomplishment)
 - [Contacts](#contacts)
