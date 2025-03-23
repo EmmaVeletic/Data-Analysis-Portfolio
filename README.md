@@ -26,7 +26,7 @@ You can find the rest about me in my [CV](https://github.com/EmmaVeletic/Data-An
   - ### Tableau --> [profile](https://public.tableau.com/app/profile/emma.veleti./vizzes)
 - [Education](#education)
 - [Statements of accomplishment](#statements-of-accomplishment)
-- [Certificates](#certificate)
+- [Certificates](#certificates)
 - [Contacts](#contacts)
 
 
@@ -102,6 +102,7 @@ Presentation of the rather expected results that the average salary increases wi
 
 ## Certificates
 - [Data Analyst Associate certificate (Mar 2025) (DataCamp)](https://github.com/EmmaVeletic/Data-Analysis-Portfolio/blob/main/DAA0012683628887.pdf)
+- 
 ## Contacts
 Feel free to reach out to me:
 
