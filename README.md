@@ -99,6 +99,7 @@ Presentation of the rather expected results that the average salary increases wi
 - [Associate Data Analyst in SQL (Feb 2025) (DataCamp)](https://github.com/EmmaVeletic/Data-Analysis-Portfolio/blob/main/SQL_Certificate.pdf)
 - [SQL Fundamentals (Feb 2025) (DataCamp)](https://github.com/EmmaVeletic/Data-Analysis-Portfolio/blob/main/SQL%20fundamentals_Certificate.pdf)
 - [Data Analyst in Python (Feb 2025) (DataCamp)](https://github.com/EmmaVeletic/Data-Analysis-Portfolio/blob/main/Python_certificate.pdf)
+- [Data Analyst in Tableau (Mar 2025) (DataCamp)](https://github.com/EmmaVeletic/Data-Analysis-Portfolio/blob/main/Tablue%20certificate.pdf)
 
 ## Certificates
 - [Data Analyst Associate certificate (Mar 2025) (DataCamp)](https://github.com/EmmaVeletic/Data-Analysis-Portfolio/blob/main/DAA0012683628887.pdf)
