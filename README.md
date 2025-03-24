@@ -103,7 +103,7 @@ Presentation of the rather expected results that the average salary increases wi
 
 ## Certificates
 - [Data Analyst Associate certificate (Mar 2025) (DataCamp)](https://github.com/EmmaVeletic/Data-Analysis-Portfolio/blob/main/DAA0012683628887.pdf)
-- 
+  
 ## Contacts
 Feel free to reach out to me:
 
