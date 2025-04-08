@@ -42,7 +42,7 @@ Dataset Used: https://www.kaggle.com/datasets/viramatv/coffee-shop-data
 
 - Coffee Shop Sales/Inventory/Staff
 
-Description: The dataset contains records of managing coffee shop like sales, inventory, staff, shifts etc. This project includes the following steps: data loading, data preprocessing (cleaning, tranformation and reduction) and EDA (exploratory data analysis).
+Description: The dataset contains records of managing coffee shop like sales, inventory, staff, shifts etc. This project includes the following steps: data loading, data preprocessing (cleaning, transformation and reduction) and EDA (exploratory data analysis).
 
 Skills: Joins, Aggregate Functions, Converting Data Types, Windows Functions, Extract date, Case Expression, Creating Views
 
